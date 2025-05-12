@@ -50,7 +50,7 @@ The following types of files could further enhance an LLM Agent's effectiveness:
 ### 4. Threat Intelligence & Context
 
 *   **`internal_threat_profile.md`**: Details specific threat actors, campaigns, or TTPs that are of high concern to *this specific organization*.
-*   **`whitelists.md`**: Lists organization-specific known-good IPs, domains, file hashes, or process names that should generally be ignored unless context suggests otherwise.
+*   **`allowlists.md`**: Lists organization-specific known-good IPs, domains, file hashes, or process names that should generally be ignored unless context suggests otherwise.
 *   **`common_benign_alerts.md`**: Describes alerts often triggered by known benign activity (e.g., vulnerability scans, specific admin scripts) and how to typically handle them.
 
 Having these additional context files would allow the LLM Agent to perform more nuanced analysis, make better-informed decisions, adhere more closely to organizational standards, and require less clarification during complex tasks.

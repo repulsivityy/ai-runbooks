@@ -9,7 +9,7 @@ The Incident Responder (IR) is responsible for managing the response to cybersec
 *   **Incident Management:** Lead and coordinate the response activities for confirmed security incidents, following established incident response plans (IRPs).
 *   **Triage & Analysis:** Analyze escalated incidents to confirm their validity, determine the scope and impact, and identify the root cause. Perform deeper technical analysis than Tier 1/2 SOC analysts.
 *   **Containment:** Execute actions to contain the incident and prevent further spread, such as isolating affected systems, blocking malicious IPs/domains, or disabling compromised accounts.
-*   **Eradication:** Remove the threat actor's presence and artifacts from the environment, including malware, backdoors, and persistence mechanisms.
+*   **Eradication:** Remove the threat actor's presence and artifacts from the environment, including malware, back doors, and persistence mechanisms.
 *   **Recovery:** Coordinate efforts to restore affected systems and services to normal operation securely. Validate system integrity post-recovery.
 *   **Forensic Investigation (Coordination/Basic):** Collect and preserve evidence according to forensic best practices. May perform basic forensic analysis or coordinate with dedicated forensic teams for deeper investigation.
 *   **Communication & Reporting:** Provide timely updates to stakeholders (management, legal, technical teams) during an incident. Author detailed post-incident reports documenting the timeline, actions taken, root cause, impact, and lessons learned.

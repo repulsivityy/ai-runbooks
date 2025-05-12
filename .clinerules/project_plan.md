@@ -108,7 +108,7 @@
     1.  **Create `internal_threat_profile.md`**:
         *   List high-concern threat actors, campaigns, or TTPs specific to the organization.
         *   *Potential Action:* Ask user/CTI Team for this profile.
-    2.  **Create `whitelists.md`**:
+    2.  **Create `allowlists.md`**:
         *   List known-good IPs, domains, hashes, process names specific to the environment.
         *   *Potential Action:* Gather this from user/Security Engineering/existing documentation.
     3.  **Create `common_benign_alerts.md`**:
